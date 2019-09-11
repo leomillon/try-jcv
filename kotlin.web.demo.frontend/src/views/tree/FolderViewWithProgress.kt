@@ -72,7 +72,7 @@ class FolderViewWithProgress(parentNode: HTMLElement,
             radialProgressBar.append.img(src = "/static/images/ok.svg")
             jq(radialProgressBar).circleProgress(json(
                     "size" to 18,
-                    "startAngle" to -Math.PI / 2,
+                    "startAngle" to -kotlin.math.PI / 2,
                     "thickness" to 9,
                     "emptyFill" to "rgba(255, 255, 255, .7)",
                     "animation" to false,
