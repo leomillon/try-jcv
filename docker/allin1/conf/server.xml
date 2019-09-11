@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Server port="8005" shutdown="SHUTDOWN">
+    <Service name="server">
+        <Connector port="8080" protocol="org.apache.coyote.http11.Http11NioProtocol"/>
+        <Engine name="server" defaultHost="localhost">
+            <Host name="localhost" appBase="server" unpackWARs="true" autoDeploy="true"/>
+        </Engine>
+    </Service>
+
+    <Service name="backend">
+        <Connector port="8081" protocol="org.apache.coyote.http11.Http11NioProtocol"/>
+        <Engine name="backend" defaultHost="localhost">
+            <Host name="localhost" appBase="backend" unpackWARs="true" autoDeploy="true"/>
+        </Engine>
+    </Service>
+</Server>

@@ -35,6 +35,34 @@
       <module name="1.3.20_test" target="1.8" />
       <module name="compilers_main" target="1.8" />
       <module name="compilers_test" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.backend.compilers.main" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.backend.compilers.test" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.backend.main" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.backend.test" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.common.main" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.common.test" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.executors.main" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.executors.test" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.frontend.main" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.frontend.test" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.server.main" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.server.test" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.test.main" target="1.8" />
+      <module name="kotlin-web-demo.kotlin.web.demo.test.test" target="1.8" />
+      <module name="kotlin-web-demo.main" target="1.8" />
+      <module name="kotlin-web-demo.test" target="1.8" />
+      <module name="kotlin-web-demo.versions.1.0.7.main" target="1.8" />
+      <module name="kotlin-web-demo.versions.1.0.7.test" target="1.8" />
+      <module name="kotlin-web-demo.versions.1.1.60.main" target="1.8" />
+      <module name="kotlin-web-demo.versions.1.1.60.test" target="1.8" />
+      <module name="kotlin-web-demo.versions.1.2.71.main" target="1.8" />
+      <module name="kotlin-web-demo.versions.1.2.71.test" target="1.8" />
+      <module name="kotlin-web-demo.versions.1.3.41.main" target="1.8" />
+      <module name="kotlin-web-demo.versions.1.3.41.test" target="1.8" />
+      <module name="kotlin-web-demo.versions.1.3.50.main" target="1.8" />
+      <module name="kotlin-web-demo.versions.1.3.50.test" target="1.8" />
+      <module name="kotlin-web-demo.versions.main" target="1.8" />
+      <module name="kotlin-web-demo.versions.test" target="1.8" />
       <module name="kotlin-web-demo_main" target="1.8" />
       <module name="kotlin-web-demo_test" target="1.8" />
       <module name="kotlin.web.demo.backend-versions_main" target="1.8" />

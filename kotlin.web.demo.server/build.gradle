@@ -27,10 +27,10 @@ for (kotlinVersion in kotlinVersions) {
 }
 
 war {
-    dependsOn ':kotlin.web.demo.frontend:build'
+    //dependsOn ':kotlin.web.demo.frontend:build'
     archiveName "WebDemoWar.war"
 
-    from('examples') {
+    /*from('examples') {
         into 'examples'
     }
     from('help')
@@ -54,4 +54,5 @@ war {
             into "static/kotlin/${kotlinVersion}"
         }
     }
+    */
 }
