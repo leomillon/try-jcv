@@ -107,8 +107,8 @@ dependencies {
      */
     library("org.skyscreamer:jsonassert:1.5.0")
     library("org.assertj:assertj-core:3.12.2")
-    library("com.ekino.oss.jcv:jcv-assertj:1.4.1")
-    library("com.ekino.oss.jcv:jcv-hamcrest:1.4.1")
+    library("com.ekino.oss.jcv:jcv-assertj:1.4.2")
+    library("com.ekino.oss.jcv:jcv-hamcrest:1.4.2")
 
     compile fileTree(dir: projectDir.toString() + File.separator + "kotlin", include: '*.jar')
 }
