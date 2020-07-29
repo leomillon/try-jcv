@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This project is archived, please see the new version used to try JCV online: https://github.com/leomillon/kotlin-jcv-compiler-server
+
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 This repository contains sources for [try.kotl.in]( http://try.kotlinlang.org/)
